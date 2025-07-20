@@ -1,0 +1,48 @@
+# Python virtual environments
+.venv/
+venv/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Test and coverage outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution / packaging
+.Python
+dist/
+build/
+egg-info/
+*.egg
+*.egg-info
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.python-version
